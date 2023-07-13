@@ -1,0 +1,7 @@
+print('Hello World!')
+print(12 + 13)
+print(12 * 9)
+print(23 * 50)
+print(1990/50)
+print()
+print("I love", "Oceania so much.", "Best babe!")
